@@ -17,6 +17,11 @@ tags
 *.out
 *.u32
 
+# flex and bison
+pandora/tokens.cpp
+pandora/parser.cpp
+pandora/parser.hpp
+
 # clangd
 compile_commands.json
 
